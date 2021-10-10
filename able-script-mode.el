@@ -12,7 +12,7 @@
   :link '(url-link "https://github.com/AbleCorp/able-script")
   :group 'languages)
 
-(defcustom able-script-indent-offset 3
+(defcustom able-script-indent-offset 6
   "Indent AbleScript code by this number of spaces per level."
   :type 'integer
   :group 'able-script-mode)
